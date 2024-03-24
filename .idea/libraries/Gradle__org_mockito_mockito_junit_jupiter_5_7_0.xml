@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.mockito:mockito-junit-jupiter:5.7.0">
+  <library name="Gradle: org.mockito:mockito-junit-jupiter:5.7.0" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/5.7.0/ac2d6a3431747a7986b8f4abef465f72bf3a21ae/mockito-junit-jupiter-5.7.0.jar!/" />
     </CLASSES>

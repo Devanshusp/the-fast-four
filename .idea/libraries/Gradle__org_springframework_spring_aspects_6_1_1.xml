@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.springframework:spring-aspects:6.1.1">
+  <library name="Gradle: org.springframework:spring-aspects:6.1.1" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/6.1.1/bfcb6682e205b4ef6ae7986ac7ea35eae29f31f4/spring-aspects-6.1.1.jar!/" />
     </CLASSES>

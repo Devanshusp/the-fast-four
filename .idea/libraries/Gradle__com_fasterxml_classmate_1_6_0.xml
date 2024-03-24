@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.fasterxml:classmate:1.6.0">
+  <library name="Gradle: com.fasterxml:classmate:1.6.0" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.6.0/91affab6f84a2182fce5dd72a8d01bc14346dddd/classmate-1.6.0.jar!/" />
     </CLASSES>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.springframework:spring-orm:6.1.1">
+  <library name="Gradle: org.springframework:spring-orm:6.1.1" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/6.1.1/e9672bb788f74ed12f9ad9e2bf12eb9e4d7c8695/spring-orm-6.1.1.jar!/" />
     </CLASSES>

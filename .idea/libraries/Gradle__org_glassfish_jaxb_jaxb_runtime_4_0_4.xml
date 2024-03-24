@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.4">
+  <library name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.4" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/4.0.4/7180c50ef8bd127bb1dd645458b906cffcf6c2b5/jaxb-runtime-4.0.4.jar!/" />
     </CLASSES>
